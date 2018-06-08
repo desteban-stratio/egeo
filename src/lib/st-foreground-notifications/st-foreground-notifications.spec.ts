@@ -22,7 +22,7 @@ import { StForegroundNotificationsModule } from './st-foreground-notifications.m
          [status]="status"
          [text]="text"
          [visible]="visible"
-         [autoCloseTime]="autoCloseTime"                          
+         [autoCloseTime]="autoCloseTime"
          id="tes-id">
       </st-foreground-notifications>`
 })
